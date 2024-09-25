@@ -2,7 +2,12 @@
 用来将final cut pro导出的xml文件中的时间轴转化为`X分：X秒 内容`，方便上传播客平台
 
 # 具体用法
-在final cut pro中打完时间轴，选择文件-导出xml，即可导出一个`.fcpxmld`文件包
+在final cut pro中打完时间轴（注意需要使用章节chapter标记，就是黄色这个）
+
+
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/99e528fb-593e-451f-9b8a-bd2ca4c06d08">
+
+选择文件-导出xml，即可导出一个`.fcpxmld`文件包
 
 ![image](https://github.com/whitewatercn/FCPexport/assets/58654928/f02551f7-0324-4963-b969-62f916aecbe0)
 
