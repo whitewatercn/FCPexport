@@ -11,7 +11,6 @@ def fraction_to_float(fraction_string):
         # 处理没有斜杠的情况，例如直接给定秒数的情况
         return float(fraction_string)
 
-
 # 时间从X秒转化为X分：Y秒
 def format_time(seconds):
     minutes = seconds // 60
